@@ -21,5 +21,3 @@ finally:
     print("Enter Any Key.....")
     cv2.waitKey(0)
     cv2.destroyAllWindows()
-
-#    "D:\Data\Azhar.jpg"
